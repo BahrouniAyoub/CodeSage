@@ -79,6 +79,7 @@ ${code}
     res.json({
       explanation,
       model: "llama-3.1-8b-instant",
+      language,
     });
   } catch (err) {
     console.error("Groq error:", err);
