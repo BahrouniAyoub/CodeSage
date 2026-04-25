@@ -1,10 +1,10 @@
-# AI Code Explainer
+# CodeSage
 
 A web application that leverages artificial intelligence to explain code snippets in an easy-to-understand manner.
 
 ## Overview
 
-AI Code Explainer is an interactive tool designed to help developers understand complex code by providing AI-powered explanations. Whether you're learning to code, reviewing legacy code, or trying to understand a new library, this tool breaks down code logic into simple, digestible explanations.
+CodeSage is an interactive tool designed to help developers understand complex code by providing AI-powered explanations. Whether you're learning to code, reviewing legacy code, or trying to understand a new library, this tool breaks down code logic into simple, digestible explanations.
 
 ## Features
 
